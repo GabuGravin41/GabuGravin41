@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabuGravin41
 - 👀 I’m interested in Data Analytics, Machine Learning and AI
-- 🌱 I’m currently learning Python for data analytics, sql, powerBI and c++
+- 🌱 I’m currently (January 2024) learning Python for data analytics, sql, powerBI and c++ 
 - 💞️ I’m looking to collaborate on data anlytics projects or hackathons
 - 📫 How to reach me:
 -1 Email -> daltonomondi588@gmail.com
