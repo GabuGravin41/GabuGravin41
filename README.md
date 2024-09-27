@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @GabuGravin41
-- 👀 I’m interested in Data Analytics, Machine Learning and AI
-- 🌱 I’m currently (January 2024) learning Python for data analytics, sql, powerBI and c++ 
-- 💞️ I’m looking to collaborate on data anlytics projects or hackathons
+- 👋 Hi, I’m @GabuGravin41 Dalton Omondi
+- 👀 I do machine learning in python, IoT and embedded systems programming in c++, Data Structures and Algorithms(DSA) for competitive programming in c++.
+- 🌱 I work as a machine learning instructor at Rastuc Academy, Kenya and mathematical olympiad trainer at CEMASTEA Kenya Math Olympiad . 
+- 💞️ I am currently learning how to work with FPGAs, MEMs and VeriLoG.
 - 📫 How to reach me:
--1 Email -> daltonomondi588@gmail.com
+-1 Email -> daltonomondi04@gmail.com
 -2.LinkedIn -> [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
