@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @GabuGravin41 Dalton Omondi
 
----
 
 - 👀 I do machine learning in python, IoT and embedded systems programming in c++, Data Structures and Algorithms(DSA) for competitive programming in c++.
 
@@ -8,7 +7,6 @@
 
 - 💞️ I am currently learning how to work with FPGAs, MEMs and VeriLoG.
 
----
 
 ### 📫 How to reach me:
 
